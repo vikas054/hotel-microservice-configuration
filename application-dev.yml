@@ -1,7 +1,4 @@
 
-spring:
-  application: 
-    name: CONFIG-SERVER-DEV
 
 # eureka client configuration
   eureka:
